@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressBars", "ProgressBars\ProgressBars.csproj", "{503444BB-2577-4DE0-B165-75968F09FB32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{29FA0CB0-93A9-40C9-B17C-2508A2ADF555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWord", "FindWord\FindWord.csproj", "{A9FA6FE0-36FD-43F0-BE6A-70974F7FDC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503444BB-2577-4DE0-B165-75968F09FB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503444BB-2577-4DE0-B165-75968F09FB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503444BB-2577-4DE0-B165-75968F09FB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503444BB-2577-4DE0-B165-75968F09FB32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA0CB0-93A9-40C9-B17C-2508A2ADF555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA0CB0-93A9-40C9-B17C-2508A2ADF555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA0CB0-93A9-40C9-B17C-2508A2ADF555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA0CB0-93A9-40C9-B17C-2508A2ADF555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9FA6FE0-36FD-43F0-BE6A-70974F7FDC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FA6FE0-36FD-43F0-BE6A-70974F7FDC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FA6FE0-36FD-43F0-BE6A-70974F7FDC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FA6FE0-36FD-43F0-BE6A-70974F7FDC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9E36B4-4ECD-410C-ADFE-FE488CCE2D30}
+	EndGlobalSection
+EndGlobal
